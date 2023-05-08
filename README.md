@@ -1,6 +1,6 @@
 # Stock Market Analysis VBA
 
-Code Source:
+CODE SOURCE:
 
 This VBA script was created by Nestor Baptista
 
