@@ -13,4 +13,4 @@ LIMITATIONS:
 The code has a few limitations:
 1. It assumes that the stock data is sorted by ticker and date in ascending order.
 2. It assumes that there are no missing or empty cells in the data.
-3. It may not work for very larger datasets due to memory constraints.
+3. It may not work for very large datasets due to memory constraints.
