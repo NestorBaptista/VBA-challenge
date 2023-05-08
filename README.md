@@ -1,6 +1,7 @@
 # Stock Market Analysis VBA
 
 OVERVIEW:
+
 This VBA code is designed to analyze stock market data in multiple worksheets within an Excel workbook. The macro loops through each worksheet, calculating the yearly change, percentage change, and total stock volume for each stockID for each year. it then summarizes the data into a first table and highlights positive and negative changes in green and red, respectively. Additionally, the macro identifies the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume for each worksheet and summarizes it into a second table.
 
 LIMITATIONS:
